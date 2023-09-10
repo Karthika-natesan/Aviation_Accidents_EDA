@@ -29,3 +29,6 @@ Sample Queries performed:
 -   Creating a view of data to be used later
 -   Aircraft and carrier information
 -   Create the virtual table with report status defined and export into csv file
+
+
+- The above analysis performed in MySQL was later exported into Tableau visualization tool to visualise and created interactive dashboards to retrive further insights.
